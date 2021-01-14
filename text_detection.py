@@ -4,7 +4,7 @@ import re
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
-img = cv2.imread('C:\\Users\\skudt\\Documents\\Data Science and Machine Learning\\OpenCV\\pan1.jpg')
+img = cv2.imread('pan1.jpg')
 hImg, wImg, dummy = img.shape
 
 boxes = pytesseract.image_to_data(img, lang='eng')
