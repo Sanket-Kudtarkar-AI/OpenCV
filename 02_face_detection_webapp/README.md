@@ -14,4 +14,4 @@
 
 * **Step - 3**
 
-    Finally, type `flask run webapp.py` in terminal.
+    Finally, type `streamlit run webapp.py` in terminal.
