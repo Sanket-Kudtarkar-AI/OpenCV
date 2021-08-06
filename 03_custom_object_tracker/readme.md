@@ -1,6 +1,6 @@
 # Custom Object Tracker
 
-_Tracks object which is selected my the cursor._
+_Tracks object selected by the cursor._
 
 ## Steps:
 
