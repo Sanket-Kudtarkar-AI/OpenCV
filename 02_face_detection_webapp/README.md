@@ -5,6 +5,7 @@
 * **Step - 1** 
     
     `pip install streamlit` 
+    
     Run face_image_storer.py to store face data using the webcam.
 
 
