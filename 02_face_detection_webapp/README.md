@@ -1,6 +1,6 @@
-#Face Detection WebApp 
+# Face Detection WebApp 
 
-##A face detection web application using Flask.
+## A face detection web application using Flask.
 
 * **Step - 1** 
 
